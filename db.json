@@ -1,0 +1,46 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Lion",
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/07/31/21/58/lion-3576031_1280.jpg",
+      "description": "Powerful and majestic, the lion roams the savannah, commanding respect as the king of the jungle.",
+      "donations": 0
+    },
+    {
+      "id": 2,
+      "name": "Tiger",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/27/12/55/tiger-2791980_1280.jpg",
+      "description": "Majestic and powerful, the tiger prowls with elegance, embodying grace, strength, and untamed beauty in the wild.",
+      "donations": 0
+    },
+    {
+      "id": 3,
+      "name": "Panther",
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/06/08/23/35/black-panther-3463377_1280.jpg",
+      "description": "The panther, a sleek and powerful big cat, prowls the shadows with grace, embodying elegance and stealth.",
+      "donations": 0
+    },
+    {
+      "id": 4,
+      "name": "Jaguar",
+      "imageUrl": "https://cdn.pixabay.com/photo/2019/01/24/15/44/jaguar-3952827_1280.jpg",
+      "description": "The Jaguar, a powerful and elegant big cat, roams the jungles with its sleek coat and piercing eyes.",
+      "donations": 0
+    },
+    {
+      "id": 5,
+      "name": "Cheetah",
+      "imageUrl": "https://cdn.pixabay.com/photo/2013/12/05/18/27/cheetah-223734_1280.jpg",
+      "description": "The cheetah is a swift and graceful big cat known for its incredible speed and distinctive black tear stripes.",
+      "donations": 120
+    },
+    {
+      "id": 6,
+      "name": "Leopard",
+      "imageUrl": "https://cdn.pixabay.com/photo/2012/03/01/00/28/animal-19621_1280.jpg",
+      "description": "The leopard, a graceful big cat known for its spotted coat, is an agile and elusive predator of the wild.",
+      "donations": 0
+    }
+  ]
+}
