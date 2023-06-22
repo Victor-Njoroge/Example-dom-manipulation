@@ -11,11 +11,23 @@ function renderOneAnimal(animal){
     console.log(card)
     document.querySelector(".box-container").appendChild(card)
 }
+const getData = () =>{
+   fetch("http://localhost:3000/animals")
+   .then((res) =>{
+    res.json()
+    .then(animals => animals.forEach(animal => renderOneAnimal(animal)))
+   })
+}
+
+
+
 
 function initialize(){
-    animals.forEach((animal)=>{
+   /* animals.forEach((animal)=>{
         renderOneAnimal(animal)
-    })
+    })*/
+    getData(); 
+    console.log("after data has been fetched and un packed")
 }
 
 initialize();
